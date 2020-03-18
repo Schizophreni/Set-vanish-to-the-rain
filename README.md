@@ -10,9 +10,9 @@ You can test your own img by adding you image to folder imgs, note that the form
 Some visual results of real scene
 
 <div align="center">
-    <img src="imgs/rain-069.png" width="150"/><img src="results/rain-073.png" width="150"/><img src="results/rain-094.png" width="150"/><img src="results/rain-095.png" width="150"/><img src="results/rain-104.png" width="150"/>
+    <img src="imgs/rain-069.png" width="100"/><img src="results/rain-073.png" width="100"/><img src="results/rain-094.png" width="100"/><img src="results/rain-095.png" width="100"/><img src="results/rain-104.png" width="100"/>
 </div>
 
 <div align="center">
-    <img src="imgs/clean-norain-069.png" width="150"/><img src="results/clean-norain-073.png" width="150"/><img src="results/clean-norain-094.png" width="150"/><img src="results/clean-norain-095.png" width="150"/><img src="results/clean-norain-104.png" width="150"/>
+    <img src="imgs/clean-norain-069.png" width="100"/><img src="results/clean-norain-073.png" width="100"/><img src="results/clean-norain-094.png" width="100"/><img src="results/clean-norain-095.png" width="100"/><img src="results/clean-norain-104.png" width="100"/>
 </div>
