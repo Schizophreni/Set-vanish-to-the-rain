@@ -10,5 +10,5 @@ You can test your own img by adding you image to folder imgs, note that the form
 Some visual results of real scene
 
 <center class="half">
-    <img src="imgs/rain-069.png" width="200"/><img src="results/clean-norain-069.png" width="200"/>
+    <img src="imgs/rain-069.png" width="150"/><img src="results/clean-norain-069.png" width="150"/>
 </center>
