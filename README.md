@@ -7,3 +7,6 @@ You can test your own img by adding you image to folder imgs, note that the form
 >* Optimization based efficient method
 >* Some details or errors will be released later
 
+Some visual results of real scene
+![Rain](/imgs/rain-069.png)
+![Norain](/results/derain-norain-069.png)
