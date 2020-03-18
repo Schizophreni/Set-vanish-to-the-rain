@@ -10,7 +10,7 @@ You can test your own img by adding you image to folder imgs, note that the form
 Some visual results of real scene
 
 <div align="center">
-    <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/><img src="imgs/rain-094.png" height="100"/><img src="imgs/rain-095.png" height="100"/><img src="imgs/rain-104.png" height="100"/>
+    <font face="Times New Roman"> *Rainy* </font> <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/><img src="imgs/rain-094.png" height="100"/><img src="imgs/rain-095.png" height="100"/><img src="imgs/rain-104.png" height="100"/>
 </div>
 
 <div align="center">
