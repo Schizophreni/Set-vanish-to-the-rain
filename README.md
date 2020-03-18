@@ -10,9 +10,9 @@ You can test your own img by adding you image to folder imgs, note that the form
 Some visual results of real scene
 
 <div align="center">
-    <img src="imgs/rain-069.png" height="150"/><img src="imgs/rain-073.png" height="150"/><img src="imgs/rain-094.png" height="150"/><img src="imgs/rain-095.png" height="150"/><img src="imgs/rain-104.png" height="150"/>
+    <img src="imgs/rain-069.png" height="120"/><img src="imgs/rain-073.png" height="120"/><img src="imgs/rain-094.png" height="120"/><img src="imgs/rain-095.png" height="120"/><img src="imgs/rain-104.png" height="120"/>
 </div>
 
 <div align="center">
-    <img src="results/clean-norain-069.png" height="150"/><img src="results/clean-norain-073.png" height="150"/><img src="results/clean-norain-094.png" height="150"/><img src="results/clean-norain-095.png" height="150"/><img src="results/clean-norain-104.png" height="150"/>
+    <img src="results/clean-norain-069.png" height="120"/><img src="results/clean-norain-073.png" height="120"/><img src="results/clean-norain-094.png" height="120"/><img src="results/clean-norain-095.png" height="120"/><img src="results/clean-norain-104.png" height="120"/>
 </div>
