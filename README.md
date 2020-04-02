@@ -17,4 +17,5 @@ Some visual results of real scene
 <div align="center">
     <img src="results/clean-norain-069.png" height="100"/><img src="results/clean-norain-073.png" height="100"/><img src="results/clean-norain-094.png" height="100"/><img src="results/clean-norain-095.png" height="100"/><img src="results/clean-norain-104.png" height="100"/>
 </div>
-**More details will be provided.
+---
+<h2>More details will be provided.</h2>
