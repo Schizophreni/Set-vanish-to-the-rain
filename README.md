@@ -23,5 +23,8 @@ An overflow of optimization can be seen below
 ## Usage
 
 ## Some results on real rainy scene
+<figure class="third">
+    <img src="imgs/rain-069.png" width="200"/>
+</figure>
 
 ## Discussion
