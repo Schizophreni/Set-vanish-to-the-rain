@@ -23,8 +23,8 @@ An overflow of optimization can be seen below
 ## Usage
 
 ## Some results on real rainy scene
-<figure class="rainy">
+<center class="rainy">
     <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/><img src="imgs/rain-094.png" height="100"/><img src="imgs/rain-095.png" height="100"/><img src="imgs/rain-104.png" height="100"/>
-</figure>
+</center>
 
 ## Discussion
