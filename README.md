@@ -22,6 +22,8 @@ An overflow of optimization can be seen below
 
 ## A Demo
 
+In matlab, running demo.m will provide derained results in folder `results/`, the correspond rainy images are in folder `imgs`
+
 ## Some results on real rainy scene
 
 **RAINY**
