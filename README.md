@@ -18,13 +18,13 @@ In DiG-CoM, the parameter ![](http://latex.codecogs.com/gif.latex?%5Clambda_2) i
 
 An overflow of optimization can be seen below
 
-## A Demo
-
 ## Usage
+
+## A Demo
 
 ## Some results on real rainy scene
 <center class="rainy">
-    <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/><img src="imgs/rain-094.png" height="100"/><img src="imgs/rain-095.png" height="100"/><img src="imgs/rain-104.png" height="100"/>
+    <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/>
 </center>
 
 ## Discussion
