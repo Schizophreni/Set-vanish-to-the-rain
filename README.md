@@ -23,8 +23,15 @@ An overflow of optimization can be seen below
 ## A Demo
 
 ## Some results on real rainy scene
+
+**RAINY**
 <div align="center">
-    <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/>
+    <img src="imgs/rain-069.png" height="100"/><img src="imgs/rain-073.png" height="100"/><img src="imgs/rain-094.png" height="100"/><img src="imgs/rain-095.png" height="100"/><img src="imgs/rain-104.png" height="100"/>
+</div>
+
+**CLEAN**
+<div align="center">
+    <img src="results/clean-norain-069.png" height="100"/><img src="results/clean-norain-073.png" height="100"/><img src="results/clean-norain-094.png" height="100"/><img src="results/clean-norain-095.png" height="100"/><img src="results/clean-norain-104.png" height="100"/>
 </div>
 
 ## Discussion
