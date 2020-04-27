@@ -8,7 +8,9 @@ Suppose a rainy image **I** can be decomposed into 3 parts: background **B** whi
 To better decompose, as it's the case in many papers, we construct four constraints:
 
 - Consistency: ![consistency](http://latex.codecogs.com/gif.latex?%7C%7C%5Cmathbf%7BI%7D-%5Cmathbf%7BB%7D-%5Cmathbf%7BR%7D-%5Cmathbf%7BE%7D%7C%7C_F%5E2)
-
+- Smooth constraint for background: ![cb](http://latex.codecogs.com/gif.latex?%5Clambda_1%7C%7C%5Cnabla%20B%7C%7C_1)
+- constraints for rain layer: ![cr](http://latex.codecogs.com/gif.latex?%5Clambda_2%7C%7C%5Cmathbf%7BR%7D%7C%7C_F%5E2-%5Clambda_3%7C%7C%5Cnabla_%7B%5Ctheta%7D%5Cmathbf%7BR%7D%7C%7C_1)
+- constraints for edge layer: ![ce](http://latex.codecogs.com/gif.latex?%5Clambda_4%7C%7C%5Cmathbf%7BE%7D%7C%7C_F%5E2-%5Clambda_5%7C%7C%5Cnabla%5Cmathbf%7BE%7D%7C%7C_1)
 Then three contraints are introduced for B, R, and E
 ![model](http://latex.codecogs.com/gif.latex?\\ C(B)=\lambda_1||\nabla B||_1)
 ![model](http://latex.codecogs.com/gif.latex?\\C(R)=\lambda_2||R||_F^2+\lambda_3||\nabla_{\theta}R||_1)
