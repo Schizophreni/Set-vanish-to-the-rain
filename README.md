@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # Single-image-rain-removal-boosting-via-directional-gradient
-Efficient, robust, fast traditional method for single image rain remvoal
+# How to model rainy images
+\\( I = B + R + E \\)
 
